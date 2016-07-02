@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Lex</string>
+    <string name="url">http://api.duma.gov.ru/api/</string>
+    <string name="api_key">590e1455e1a9aadb88c2613aad707223381c39e4</string>
+    <string name="url_api_key">http://api.duma.gov.ru/api/590e1455e1a9aadb88c2613aad707223381c39e4</string>
+    <string name="app_key"></string>
+    <string name="search">/search.json</string>
 </resources>
